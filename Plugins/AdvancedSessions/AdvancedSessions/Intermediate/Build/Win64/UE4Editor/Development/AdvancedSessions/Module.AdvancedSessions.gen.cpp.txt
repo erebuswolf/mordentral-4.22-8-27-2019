@@ -1,0 +1,199 @@
+C:\Users\Jesse\UP\mordentral-4.22-8-27-2019\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\Definitions.AdvancedSessions.h
+C:\Users\Jesse\UP\mordentral-4.22-8-27-2019\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Inc\AdvancedSessions\AdvancedExternalUILibrary.gen.cpp
+E:\Unreal\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+E:\Unreal\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\Jesse\UP\mordentral-4.22-8-27-2019\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions/Classes/AdvancedExternalUILibrary.h
+c:\users\jesse\up\mordentral-4.22-8-27-2019\plugins\advancedsessions\advancedsessions\source\advancedsessions\classes\BlueprintDataDefinitions.h
+E:\Unreal\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/PlayerState.h
+E:\Unreal\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PlayerState.generated.h
+E:\Unreal\Epic Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystem\Source\Public\Interfaces/OnlineSessionInterface.h
+E:\Unreal\Epic Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystem\Source\Public\OnlineSubsystemTypes.h
+e:\unreal\epic games\ue_4.22\engine\plugins\online\onlinesubsystem\source\public\OnlineSubsystemNames.h
+e:\unreal\epic games\ue_4.22\engine\plugins\online\onlinesubsystem\source\public\OnlineSubsystemPackage.h
+E:\Unreal\Epic Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystem\Source\Public\OnlineDelegateMacros.h
+E:\Unreal\Epic Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystem\Source\Public\OnlineSessionSettings.h
+e:\unreal\epic games\ue_4.22\engine\plugins\online\onlinesubsystem\source\public\OnlineKeyValuePair.h
+e:\unreal\epic games\ue_4.22\engine\plugins\online\onlinesubsystem\source\public\OnlineSubsystemPackage.h
+e:\unreal\epic games\ue_4.22\engine\plugins\online\onlinesubsystem\source\public\OnlineSubsystemPackage.h
+E:\Unreal\Epic Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystem\Source\Public\OnlineSubsystem.h
+e:\unreal\epic games\ue_4.22\engine\plugins\online\onlinesubsystem\source\public\OnlineSubsystemModule.h
+E:\Unreal\Epic Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystem\Source\Public\OnlineSubsystemImpl.h
+e:\unreal\epic games\ue_4.22\engine\plugins\online\onlinesubsystem\source\public\OnlineSubsystemPackage.h
+E:\Unreal\Epic Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Public\OnlineSubsystemUtils.h
+e:\unreal\epic games\ue_4.22\engine\plugins\online\onlinesubsystemutils\source\onlinesubsystemutils\public\OnlineSubsystemUtilsModule.h
+E:\Unreal\Epic Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystem\Source\Public\Interfaces/OnlineIdentityInterface.h
+E:\Unreal\Epic Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystem\Source\Public\OnlineIdentityErrors.h
+e:\unreal\epic games\ue_4.22\engine\plugins\online\onlinesubsystem\source\public\OnlineError.h
+e:\unreal\epic games\ue_4.22\engine\plugins\online\onlinesubsystem\source\public\OnlineErrorMacros.inl
+E:\Unreal\Epic Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystem\Source\Public\Online.h
+e:\unreal\epic games\ue_4.22\engine\plugins\online\onlinesubsystem\source\public\Interfaces/OnlineChatInterface.h
+e:\unreal\epic games\ue_4.22\engine\plugins\online\onlinesubsystem\source\public\Interfaces/OnlineFriendsInterface.h
+e:\unreal\epic games\ue_4.22\engine\plugins\online\onlinesubsystem\source\public\Interfaces/OnlineEventsInterface.h
+e:\unreal\epic games\ue_4.22\engine\plugins\online\onlinesubsystem\source\public\Interfaces/OnlinePartyInterface.h
+e:\unreal\epic games\ue_4.22\engine\plugins\online\onlinesubsystem\source\public\Interfaces/OnlineExternalUIInterface.h
+e:\unreal\epic games\ue_4.22\engine\plugins\online\onlinesubsystem\source\public\Interfaces/OnlineMessageInterface.h
+e:\unreal\epic games\ue_4.22\engine\plugins\online\onlinesubsystem\source\public\Interfaces/VoiceInterface.h
+e:\unreal\epic games\ue_4.22\engine\plugins\online\onlinesubsystem\source\public\OnlineSubsystemPackage.h
+e:\unreal\epic games\ue_4.22\engine\plugins\online\onlinesubsystem\source\public\Interfaces/OnlineTitleFileInterface.h
+e:\unreal\epic games\ue_4.22\engine\plugins\online\onlinesubsystem\source\public\Interfaces/OnlineAchievementsInterface.h
+e:\unreal\epic games\ue_4.22\engine\plugins\online\onlinesubsystem\source\public\OnlineStats.h
+e:\unreal\epic games\ue_4.22\engine\plugins\online\onlinesubsystem\source\public\Interfaces/OnlinePresenceInterface.h
+e:\unreal\epic games\ue_4.22\engine\plugins\online\onlinesubsystem\source\public\Interfaces/OnlineEntitlementsInterface.h
+e:\unreal\epic games\ue_4.22\engine\plugins\online\onlinesubsystem\source\public\Interfaces/OnlineUserCloudInterface.h
+e:\unreal\epic games\ue_4.22\engine\plugins\online\onlinesubsystem\source\public\Interfaces/OnlineUserInterface.h
+e:\unreal\epic games\ue_4.22\engine\plugins\online\onlinesubsystem\source\public\Interfaces/OnlineStatsInterface.h
+e:\unreal\epic games\ue_4.22\engine\plugins\online\onlinesubsystemutils\source\onlinesubsystemutils\public\VoipListenerSynthComponent.h
+E:\Unreal\Epic Games\UE_4.22\Engine\Source\Runtime\AudioMixer\Public\Components/SynthComponent.h
+E:\Unreal\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Components/AudioComponent.h
+E:\Unreal\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AudioComponent.generated.h
+E:\Unreal\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Sound/SoundWaveProcedural.h
+E:\Unreal\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundWaveProcedural.generated.h
+E:\Unreal\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AudioMixer\SynthComponent.generated.h
+e:\unreal\epic games\ue_4.22\engine\plugins\online\onlinesubsystemutils\source\onlinesubsystemutils\public\VoicePacketBuffer.h
+E:\Unreal\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Public\Net/VoiceDataCommon.h
+E:\Unreal\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Public\Net/VoiceConfig.h
+E:\Unreal\Epic Games\UE_4.22\Engine\Source\Runtime\AudioMixer\Public\DSP/EnvelopeFollower.h
+E:\Unreal\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Sound/AudioSettings.h
+E:\Unreal\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AudioSettings.generated.h
+E:\Unreal\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\VoiceConfig.generated.h
+E:\Unreal\Epic Games\UE_4.22\Engine\Source\Runtime\AudioMixer\Public\DSP/DynamicsProcesser.h
+E:\Unreal\Epic Games\UE_4.22\Engine\Source\Runtime\AudioMixer\Public\DSP/Delay.h
+E:\Unreal\Epic Games\UE_4.22\Engine\Source\Runtime\AudioMixer\Public\DSP/WaveTableOsc.h
+E:\Unreal\Epic Games\UE_4.22\Engine\Source\Runtime\AudioMixer\Public\DSP/EQ.h
+E:\Unreal\Epic Games\UE_4.22\Engine\Source\Runtime\AudioMixer\Public\DSP/Filter.h
+E:\Unreal\Epic Games\UE_4.22\Engine\Source\Runtime\AudioMixer\Public\DSP/ModulationMatrix.h
+E:\Unreal\Epic Games\UE_4.22\Engine\Source\Runtime\AudioMixer\Public\DSP/BiQuadFilter.h
+E:\Unreal\Epic Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystemUtils\Intermediate\Build\Win64\UE4Editor\Inc\OnlineSubsystemUtils\VoipListenerSynthComponent.generated.h
+E:\Unreal\Epic Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystemUtils\Intermediate\Build\Win64\UE4Editor\Inc\OnlineSubsystemUtils\OnlineSubsystemUtilsClasses.h
+E:\Unreal\Epic Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils/Classes/AchievementBlueprintLibrary.h
+e:\unreal\epic games\ue_4.22\engine\plugins\online\onlinesubsystemutils\intermediate\build\win64\ue4editor\inc\onlinesubsystemutils\AchievementBlueprintLibrary.generated.h
+E:\Unreal\Epic Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils/Classes/AchievementQueryCallbackProxy.h
+E:\Unreal\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Public\Net/OnlineBlueprintCallProxyBase.h
+E:\Unreal\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\OnlineBlueprintCallProxyBase.generated.h
+e:\unreal\epic games\ue_4.22\engine\plugins\online\onlinesubsystemutils\intermediate\build\win64\ue4editor\inc\onlinesubsystemutils\AchievementQueryCallbackProxy.generated.h
+E:\Unreal\Epic Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils/Classes/AchievementWriteCallbackProxy.h
+e:\unreal\epic games\ue_4.22\engine\plugins\online\onlinesubsystemutils\intermediate\build\win64\ue4editor\inc\onlinesubsystemutils\AchievementWriteCallbackProxy.generated.h
+E:\Unreal\Epic Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils/Classes/ConnectionCallbackProxy.h
+e:\unreal\epic games\ue_4.22\engine\plugins\online\onlinesubsystemutils\intermediate\build\win64\ue4editor\inc\onlinesubsystemutils\ConnectionCallbackProxy.generated.h
+E:\Unreal\Epic Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils/Classes/CreateSessionCallbackProxy.h
+e:\unreal\epic games\ue_4.22\engine\plugins\online\onlinesubsystemutils\intermediate\build\win64\ue4editor\inc\onlinesubsystemutils\CreateSessionCallbackProxy.generated.h
+E:\Unreal\Epic Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils/Classes/DestroySessionCallbackProxy.h
+e:\unreal\epic games\ue_4.22\engine\plugins\online\onlinesubsystemutils\intermediate\build\win64\ue4editor\inc\onlinesubsystemutils\DestroySessionCallbackProxy.generated.h
+E:\Unreal\Epic Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils/Classes/EndMatchCallbackProxy.h
+E:\Unreal\Epic Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystem\Source\Public\Interfaces/OnlineTurnBasedInterface.h
+E:\Unreal\Epic Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystem\Intermediate\Build\Win64\UE4Editor\Inc\OnlineSubsystem\OnlineTurnBasedInterface.generated.h
+e:\unreal\epic games\ue_4.22\engine\plugins\online\onlinesubsystemutils\intermediate\build\win64\ue4editor\inc\onlinesubsystemutils\EndMatchCallbackProxy.generated.h
+E:\Unreal\Epic Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils/Classes/EndTurnCallbackProxy.h
+E:\Unreal\Epic Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystem\Source\Public\Interfaces/TurnBasedMatchInterface.h
+E:\Unreal\Epic Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystem\Intermediate\Build\Win64\UE4Editor\Inc\OnlineSubsystem\TurnBasedMatchInterface.generated.h
+e:\unreal\epic games\ue_4.22\engine\plugins\online\onlinesubsystemutils\intermediate\build\win64\ue4editor\inc\onlinesubsystemutils\EndTurnCallbackProxy.generated.h
+E:\Unreal\Epic Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils/Classes/FindSessionsCallbackProxy.h
+e:\unreal\epic games\ue_4.22\engine\plugins\online\onlinesubsystemutils\intermediate\build\win64\ue4editor\inc\onlinesubsystemutils\FindSessionsCallbackProxy.generated.h
+E:\Unreal\Epic Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils/Classes/FindTurnBasedMatchCallbackProxy.h
+e:\unreal\epic games\ue_4.22\engine\plugins\online\onlinesubsystemutils\intermediate\build\win64\ue4editor\inc\onlinesubsystemutils\FindTurnBasedMatchCallbackProxy.generated.h
+E:\Unreal\Epic Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils/Classes/InAppPurchaseCallbackProxy.h
+E:\Unreal\Epic Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystem\Source\Public\Interfaces/OnlineStoreInterface.h
+E:\Unreal\Epic Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystem\Intermediate\Build\Win64\UE4Editor\Inc\OnlineSubsystem\OnlineStoreInterface.generated.h
+e:\unreal\epic games\ue_4.22\engine\plugins\online\onlinesubsystemutils\intermediate\build\win64\ue4editor\inc\onlinesubsystemutils\InAppPurchaseCallbackProxy.generated.h
+E:\Unreal\Epic Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils/Classes/InAppPurchaseQueryCallbackProxy.h
+e:\unreal\epic games\ue_4.22\engine\plugins\online\onlinesubsystemutils\intermediate\build\win64\ue4editor\inc\onlinesubsystemutils\InAppPurchaseQueryCallbackProxy.generated.h
+E:\Unreal\Epic Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils/Classes/InAppPurchaseRestoreCallbackProxy.h
+e:\unreal\epic games\ue_4.22\engine\plugins\online\onlinesubsystemutils\intermediate\build\win64\ue4editor\inc\onlinesubsystemutils\InAppPurchaseRestoreCallbackProxy.generated.h
+E:\Unreal\Epic Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils/Classes/IpConnection.h
+E:\Unreal\Epic Games\UE_4.22\Engine\Source\Runtime\Sockets\Public\SocketTypes.h
+e:\unreal\epic games\ue_4.22\engine\plugins\online\onlinesubsystemutils\intermediate\build\win64\ue4editor\inc\onlinesubsystemutils\IpConnection.generated.h
+E:\Unreal\Epic Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils/Classes/IpNetDriver.h
+E:\Unreal\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Containers/CircularQueue.h
+E:\Unreal\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Containers/CircularBuffer.h
+e:\unreal\epic games\ue_4.22\engine\plugins\online\onlinesubsystemutils\intermediate\build\win64\ue4editor\inc\onlinesubsystemutils\IpNetDriver.generated.h
+E:\Unreal\Epic Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils/Classes/JoinSessionCallbackProxy.h
+e:\unreal\epic games\ue_4.22\engine\plugins\online\onlinesubsystemutils\intermediate\build\win64\ue4editor\inc\onlinesubsystemutils\JoinSessionCallbackProxy.generated.h
+E:\Unreal\Epic Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils/Classes/LeaderboardBlueprintLibrary.h
+e:\unreal\epic games\ue_4.22\engine\plugins\online\onlinesubsystemutils\intermediate\build\win64\ue4editor\inc\onlinesubsystemutils\LeaderboardBlueprintLibrary.generated.h
+E:\Unreal\Epic Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils/Classes/LeaderboardFlushCallbackProxy.h
+E:\Unreal\Epic Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystem\Source\Public\Interfaces/OnlineLeaderboardInterface.h
+e:\unreal\epic games\ue_4.22\engine\plugins\online\onlinesubsystemutils\intermediate\build\win64\ue4editor\inc\onlinesubsystemutils\LeaderboardFlushCallbackProxy.generated.h
+E:\Unreal\Epic Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils/Classes/LeaderboardQueryCallbackProxy.h
+e:\unreal\epic games\ue_4.22\engine\plugins\online\onlinesubsystemutils\intermediate\build\win64\ue4editor\inc\onlinesubsystemutils\LeaderboardQueryCallbackProxy.generated.h
+E:\Unreal\Epic Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils/Classes/LogoutCallbackProxy.h
+E:\Unreal\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Kismet/BlueprintAsyncActionBase.h
+E:\Unreal\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BlueprintAsyncActionBase.generated.h
+e:\unreal\epic games\ue_4.22\engine\plugins\online\onlinesubsystemutils\intermediate\build\win64\ue4editor\inc\onlinesubsystemutils\LogoutCallbackProxy.generated.h
+E:\Unreal\Epic Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils/Classes/TestBeaconClient.h
+E:\Unreal\Epic Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Public\OnlineBeaconClient.h
+e:\unreal\epic games\ue_4.22\engine\plugins\online\onlinesubsystemutils\source\onlinesubsystemutils\public\OnlineBeacon.h
+e:\unreal\epic games\ue_4.22\engine\plugins\online\onlinesubsystemutils\intermediate\build\win64\ue4editor\inc\onlinesubsystemutils\OnlineBeacon.generated.h
+e:\unreal\epic games\ue_4.22\engine\plugins\online\onlinesubsystemutils\intermediate\build\win64\ue4editor\inc\onlinesubsystemutils\OnlineBeaconClient.generated.h
+e:\unreal\epic games\ue_4.22\engine\plugins\online\onlinesubsystemutils\intermediate\build\win64\ue4editor\inc\onlinesubsystemutils\TestBeaconClient.generated.h
+E:\Unreal\Epic Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils/Classes/TestBeaconHost.h
+E:\Unreal\Epic Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Public\OnlineBeaconHostObject.h
+e:\unreal\epic games\ue_4.22\engine\plugins\online\onlinesubsystemutils\intermediate\build\win64\ue4editor\inc\onlinesubsystemutils\OnlineBeaconHostObject.generated.h
+e:\unreal\epic games\ue_4.22\engine\plugins\online\onlinesubsystemutils\intermediate\build\win64\ue4editor\inc\onlinesubsystemutils\TestBeaconHost.generated.h
+E:\Unreal\Epic Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils/Classes/OnlineSessionClient.h
+E:\Unreal\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/OnlineSession.h
+E:\Unreal\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\OnlineSession.generated.h
+e:\unreal\epic games\ue_4.22\engine\plugins\online\onlinesubsystemutils\intermediate\build\win64\ue4editor\inc\onlinesubsystemutils\OnlineSessionClient.generated.h
+E:\Unreal\Epic Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils/Classes/QuitMatchCallbackProxy.h
+e:\unreal\epic games\ue_4.22\engine\plugins\online\onlinesubsystemutils\intermediate\build\win64\ue4editor\inc\onlinesubsystemutils\QuitMatchCallbackProxy.generated.h
+E:\Unreal\Epic Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils/Classes/ShowLoginUICallbackProxy.h
+e:\unreal\epic games\ue_4.22\engine\plugins\online\onlinesubsystemutils\intermediate\build\win64\ue4editor\inc\onlinesubsystemutils\ShowLoginUICallbackProxy.generated.h
+E:\Unreal\Epic Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils/Classes/TurnBasedBlueprintLibrary.h
+e:\unreal\epic games\ue_4.22\engine\plugins\online\onlinesubsystemutils\intermediate\build\win64\ue4editor\inc\onlinesubsystemutils\TurnBasedBlueprintLibrary.generated.h
+c:\users\jesse\up\mordentral-4.22-8-27-2019\plugins\advancedsessions\advancedsessions\intermediate\build\win64\ue4editor\inc\advancedsessions\BlueprintDataDefinitions.generated.h
+c:\users\jesse\up\mordentral-4.22-8-27-2019\plugins\advancedsessions\advancedsessions\intermediate\build\win64\ue4editor\inc\advancedsessions\AdvancedExternalUILibrary.generated.h
+C:\Users\Jesse\UP\mordentral-4.22-8-27-2019\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Inc\AdvancedSessions\AdvancedFriendsGameInstance.gen.cpp
+C:\Users\Jesse\UP\mordentral-4.22-8-27-2019\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions/Classes/AdvancedFriendsGameInstance.h
+c:\users\jesse\up\mordentral-4.22-8-27-2019\plugins\advancedsessions\advancedsessions\source\advancedsessions\classes\AdvancedFriendsInterface.h
+c:\users\jesse\up\mordentral-4.22-8-27-2019\plugins\advancedsessions\advancedsessions\intermediate\build\win64\ue4editor\inc\advancedsessions\AdvancedFriendsInterface.generated.h
+c:\users\jesse\up\mordentral-4.22-8-27-2019\plugins\advancedsessions\advancedsessions\intermediate\build\win64\ue4editor\inc\advancedsessions\AdvancedFriendsGameInstance.generated.h
+C:\Users\Jesse\UP\mordentral-4.22-8-27-2019\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Inc\AdvancedSessions\AdvancedFriendsInterface.gen.cpp
+C:\Users\Jesse\UP\mordentral-4.22-8-27-2019\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Inc\AdvancedSessions\AdvancedFriendsLibrary.gen.cpp
+C:\Users\Jesse\UP\mordentral-4.22-8-27-2019\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions/Classes/AdvancedFriendsLibrary.h
+c:\users\jesse\up\mordentral-4.22-8-27-2019\plugins\advancedsessions\advancedsessions\intermediate\build\win64\ue4editor\inc\advancedsessions\AdvancedFriendsLibrary.generated.h
+C:\Users\Jesse\UP\mordentral-4.22-8-27-2019\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Inc\AdvancedSessions\AdvancedIdentityLibrary.gen.cpp
+C:\Users\Jesse\UP\mordentral-4.22-8-27-2019\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions/Classes/AdvancedIdentityLibrary.h
+c:\users\jesse\up\mordentral-4.22-8-27-2019\plugins\advancedsessions\advancedsessions\intermediate\build\win64\ue4editor\inc\advancedsessions\AdvancedIdentityLibrary.generated.h
+C:\Users\Jesse\UP\mordentral-4.22-8-27-2019\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Inc\AdvancedSessions\AdvancedSessions.init.gen.cpp
+C:\Users\Jesse\UP\mordentral-4.22-8-27-2019\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Inc\AdvancedSessions\AdvancedSessionsLibrary.gen.cpp
+C:\Users\Jesse\UP\mordentral-4.22-8-27-2019\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions/Classes/AdvancedSessionsLibrary.h
+c:\users\jesse\up\mordentral-4.22-8-27-2019\plugins\advancedsessions\advancedsessions\intermediate\build\win64\ue4editor\inc\advancedsessions\AdvancedSessionsLibrary.generated.h
+C:\Users\Jesse\UP\mordentral-4.22-8-27-2019\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Inc\AdvancedSessions\AdvancedVoiceLibrary.gen.cpp
+C:\Users\Jesse\UP\mordentral-4.22-8-27-2019\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions/Classes/AdvancedVoiceLibrary.h
+c:\users\jesse\up\mordentral-4.22-8-27-2019\plugins\advancedsessions\advancedsessions\intermediate\build\win64\ue4editor\inc\advancedsessions\AdvancedVoiceLibrary.generated.h
+C:\Users\Jesse\UP\mordentral-4.22-8-27-2019\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Inc\AdvancedSessions\BlueprintDataDefinitions.gen.cpp
+C:\Users\Jesse\UP\mordentral-4.22-8-27-2019\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Inc\AdvancedSessions\CancelFindSessionsCallbackProxy.gen.cpp
+C:\Users\Jesse\UP\mordentral-4.22-8-27-2019\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions/Classes/CancelFindSessionsCallbackProxy.h
+c:\users\jesse\up\mordentral-4.22-8-27-2019\plugins\advancedsessions\advancedsessions\intermediate\build\win64\ue4editor\inc\advancedsessions\CancelFindSessionsCallbackProxy.generated.h
+C:\Users\Jesse\UP\mordentral-4.22-8-27-2019\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Inc\AdvancedSessions\CreateSessionCallbackProxyAdvanced.gen.cpp
+C:\Users\Jesse\UP\mordentral-4.22-8-27-2019\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions/Classes/CreateSessionCallbackProxyAdvanced.h
+c:\users\jesse\up\mordentral-4.22-8-27-2019\plugins\advancedsessions\advancedsessions\intermediate\build\win64\ue4editor\inc\advancedsessions\CreateSessionCallbackProxyAdvanced.generated.h
+C:\Users\Jesse\UP\mordentral-4.22-8-27-2019\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Inc\AdvancedSessions\EndSessionCallbackProxy.gen.cpp
+C:\Users\Jesse\UP\mordentral-4.22-8-27-2019\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions/Classes/EndSessionCallbackProxy.h
+c:\users\jesse\up\mordentral-4.22-8-27-2019\plugins\advancedsessions\advancedsessions\intermediate\build\win64\ue4editor\inc\advancedsessions\EndSessionCallbackProxy.generated.h
+C:\Users\Jesse\UP\mordentral-4.22-8-27-2019\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Inc\AdvancedSessions\FindFriendSessionCallbackProxy.gen.cpp
+C:\Users\Jesse\UP\mordentral-4.22-8-27-2019\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions/Classes/FindFriendSessionCallbackProxy.h
+c:\users\jesse\up\mordentral-4.22-8-27-2019\plugins\advancedsessions\advancedsessions\intermediate\build\win64\ue4editor\inc\advancedsessions\FindFriendSessionCallbackProxy.generated.h
+C:\Users\Jesse\UP\mordentral-4.22-8-27-2019\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Inc\AdvancedSessions\FindSessionsCallbackProxyAdvanced.gen.cpp
+C:\Users\Jesse\UP\mordentral-4.22-8-27-2019\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions/Classes/FindSessionsCallbackProxyAdvanced.h
+c:\users\jesse\up\mordentral-4.22-8-27-2019\plugins\advancedsessions\advancedsessions\intermediate\build\win64\ue4editor\inc\advancedsessions\FindSessionsCallbackProxyAdvanced.generated.h
+C:\Users\Jesse\UP\mordentral-4.22-8-27-2019\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Inc\AdvancedSessions\GetFriendsCallbackProxy.gen.cpp
+C:\Users\Jesse\UP\mordentral-4.22-8-27-2019\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions/Classes/GetFriendsCallbackProxy.h
+c:\users\jesse\up\mordentral-4.22-8-27-2019\plugins\advancedsessions\advancedsessions\intermediate\build\win64\ue4editor\inc\advancedsessions\GetFriendsCallbackProxy.generated.h
+C:\Users\Jesse\UP\mordentral-4.22-8-27-2019\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Inc\AdvancedSessions\GetRecentPlayersCallbackProxy.gen.cpp
+C:\Users\Jesse\UP\mordentral-4.22-8-27-2019\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions/Classes/GetRecentPlayersCallbackProxy.h
+c:\users\jesse\up\mordentral-4.22-8-27-2019\plugins\advancedsessions\advancedsessions\intermediate\build\win64\ue4editor\inc\advancedsessions\GetRecentPlayersCallbackProxy.generated.h
+C:\Users\Jesse\UP\mordentral-4.22-8-27-2019\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Inc\AdvancedSessions\GetUserPrivilegeCallbackProxy.gen.cpp
+C:\Users\Jesse\UP\mordentral-4.22-8-27-2019\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions/Classes/GetUserPrivilegeCallbackProxy.h
+c:\users\jesse\up\mordentral-4.22-8-27-2019\plugins\advancedsessions\advancedsessions\intermediate\build\win64\ue4editor\inc\advancedsessions\GetUserPrivilegeCallbackProxy.generated.h
+C:\Users\Jesse\UP\mordentral-4.22-8-27-2019\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Inc\AdvancedSessions\LoginUserCallbackProxy.gen.cpp
+C:\Users\Jesse\UP\mordentral-4.22-8-27-2019\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions/Classes/LoginUserCallbackProxy.h
+c:\users\jesse\up\mordentral-4.22-8-27-2019\plugins\advancedsessions\advancedsessions\intermediate\build\win64\ue4editor\inc\advancedsessions\LoginUserCallbackProxy.generated.h
+C:\Users\Jesse\UP\mordentral-4.22-8-27-2019\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Inc\AdvancedSessions\LogoutUserCallbackProxy.gen.cpp
+C:\Users\Jesse\UP\mordentral-4.22-8-27-2019\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions/Classes/LogoutUserCallbackProxy.h
+c:\users\jesse\up\mordentral-4.22-8-27-2019\plugins\advancedsessions\advancedsessions\intermediate\build\win64\ue4editor\inc\advancedsessions\LogoutUserCallbackProxy.generated.h
+C:\Users\Jesse\UP\mordentral-4.22-8-27-2019\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Inc\AdvancedSessions\SendFriendInviteCallbackProxy.gen.cpp
+C:\Users\Jesse\UP\mordentral-4.22-8-27-2019\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions/Classes/SendFriendInviteCallbackProxy.h
+c:\users\jesse\up\mordentral-4.22-8-27-2019\plugins\advancedsessions\advancedsessions\intermediate\build\win64\ue4editor\inc\advancedsessions\SendFriendInviteCallbackProxy.generated.h
+C:\Users\Jesse\UP\mordentral-4.22-8-27-2019\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Inc\AdvancedSessions\UpdateSessionCallbackProxyAdvanced.gen.cpp
+C:\Users\Jesse\UP\mordentral-4.22-8-27-2019\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions/Classes/UpdateSessionCallbackProxyAdvanced.h
+c:\users\jesse\up\mordentral-4.22-8-27-2019\plugins\advancedsessions\advancedsessions\intermediate\build\win64\ue4editor\inc\advancedsessions\UpdateSessionCallbackProxyAdvanced.generated.h
